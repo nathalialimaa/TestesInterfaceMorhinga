@@ -1,4 +1,4 @@
-const api = "https://spring-moringa.onrender.com";
+const api = "https://testemorhingaspring.onrender.com";
 
 //retorna o getting correspondente ao dto do back-end "DadoSensorUnificado.java"
 async function carregarDadosAnaliseCompleta() {
